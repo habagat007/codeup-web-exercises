@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c087f0dd-7682-4bde-b024-3fc2f0b20920" name="Default Changelist" comment="" />
+    <list default="true" id="c087f0dd-7682-4bde-b024-3fc2f0b20920" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -133,7 +135,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541537447576" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541538744787" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
   </component>
   <component name="RunDashboard">
@@ -160,12 +162,12 @@
       <updated>1541453744088</updated>
       <workItem from="1541453747240" duration="4291000" />
       <workItem from="1541515295615" duration="2474000" />
-      <workItem from="1541519790345" duration="11009000" />
+      <workItem from="1541519790345" duration="12024000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17774000" />
+    <option name="totallyTimeSpent" value="18789000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
