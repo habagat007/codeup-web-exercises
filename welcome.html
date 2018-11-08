@@ -1,32 +1,41 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="UTF-8">
     <meta name="description" content="HTML is the laguage of content and structures"
-    <title>Hello world!</title>
+    <title></title>
+    <link rel="stylesheet" href="css/welcome.css">
+    <style>
+      body{
+           background-image: url(img/plain.jpg);
+           background-repeat: no-repeat;
+           background-size: cover;
+           font-family: Futura;}
+    </style>
 </head>
-<body>
-   <h1> Hi everyone</h1>
-   <h2> heading are diff sizes</h2>
-   <h3>use to communicate meaning about the content</h3>
-   <h4>see how far u can take the headings</h4>
-<!--this is how u put COMMENTS-->
-   <h1>GIT is our version control system</h1>
-      <ul>
-          <li>version control system is a way of keeping track of diff ver of files</li>
-          <li>Resume.pdf, reumeFINAL.pdf</li>
-          <li>git is a ver control system</li>
-          <ul>
-              <li>GIT is permanent record</li>
-              <li>it is also a time machine</li>
-              <li>also a paralle universe</li>
-          </ul>
-      </ul>
-      <ul>
-          <li><pre>git init</pre>initializes a regular ol' directory as a git repository</li>
-      </ul>
-     <p> paragraph</p>
-     <p>another paragraph</p>
-     <footer>here foot</footer>
+
+<body align="center">
+   <div class="wrapper" class="fancy">
+   <h1>Welcome HTML</h1>
+   <br>
+   <h2>Pls tell us where you want to go?</h2>
+       <label for="google">
+           <img src="img/googlelogo.jpeg"><br>
+           <a href="https://google.com">Google<a/>
+       </label>
+       <label for="yahoo">
+         <img src="img/yahoologo.png"><br>
+         <a href="https://yahoo.com">Yahoo! <a/>
+       </label>
+       <label for="facebook">
+         <img src="img/facebooklogo.png"><br>
+         <a href="https://facebook.com">Facebook<a/>
+       </label>
+       <label for="codeup">
+           <img src="img/codeuppict.png">
+           <a href="https://codeup.com">CodeUp<a/>
+       </label>
+
+   </div>
 </body>
 </html>
