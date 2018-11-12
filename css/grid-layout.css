@@ -1,0 +1,75 @@
+div{
+    background-color: lightgray;
+
+
+}
+
+.half{
+    width: 100%;
+
+
+}
+
+.one-half {
+    box-sizing: border-box;
+    border: 5px black;
+    width: 50%;
+    float: left;
+    border: 5px solid black;
+    margin-bottom: 10px;
+}
+
+third{
+    width: 100%;
+    border: 2px solid black;
+    margin-bottom: 10px;
+
+}
+
+.one-third{
+    box-sizing: border-box;
+    width: 33.33%;
+    float: left;
+    border: 5px solid black;
+    margin-bottom: 10px;
+
+
+}
+
+.fourth{
+    width: 100%;
+    border: 2px solid black;
+    margin-bottom: 10px;
+
+}
+
+.one-fourth{
+    box-sizing: border-box;
+    width: 25%;
+    float: left;
+    border: 5px solid black;
+    margin-bottom: 10px;
+
+
+}
+
+.eight{
+    width: 100%;
+    border: 2px solid black;
+    margin-bottom: 10px;
+
+}
+
+.one-eight{
+    box-sizing: border-box;
+    width: 12.5%;
+    float: left;
+    border: 5px solid black;
+    margin-bottom: 10px;
+
+
+}
+
+
+
+
