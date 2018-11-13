@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Pizza</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous" />
+   <!-- <link rel="stylesheet" href="css/mediaQueHomework.css"> -->
+    <link rel="stylesheet" href="css/order-pizza.css">
+</head>
+<body>
+<div class="wrapper">
+    <nav class="navbar-light bg-light justify-content-between">
+
+        <form class="form-inline">
+            <button class="bt btn-sm btn-outline-secondary" type="button">Pizza World</button>
+            <button class="bt btn-sm btn-outline-secondary" type="button">Order Online</button>
+            <button class="bt btn-sm btn-outline-secondary" type="button">Menu</button>
+            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search stores in your area</button>
+        </form>
+    </nav>
+    <div class="jumbotron">
+        <h1 class="display-4">Welcome to Pizza World</h1>
+
+    </div>
+    <h2>Build Your Own Pizza!</h2>
+    <ul class="nav nav-tabs">
+        <li class="nav-item">
+            <a class="nav-link" href="#">1.Size and Crust</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="#">2.Cheese and Sauce</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="#">3.Topings</a>
+        </li>
+    </ul>
+    <p class="size-and-crust">Choose size and crust</p>
+    <div class="card" style="width: 18rem;">
+        <div class="card-header">
+            Hand Tossed
+        </div>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">Garlic Seasoned crust with a rich, buttery taste</li>
+            <li class="list-group-item">
+                <label class="small">Small(10")
+                   <input type="radio" checked="checked" name="radio">
+                </label>
+            </li>
+            <li class="list-group-item">
+                <label class="medium">Medium(12")
+                    <input type="radio" name="radio">
+                </label>
+            </li>
+        </ul>
+        <div class="card" style="width: 18rem;">
+            <div class="card-header">
+                Crispy Thin
+            </div>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">
+                    <label class="medium1">Medium(12")
+                        <input type="radio" name="radio">
+                    </label>
+                </li>
+                <li class="list-group-item">
+                    <label class="lrg">Large(14")
+                        <input type="radio" name="radio">
+                    </label>
+                </li>
+            </ul>
+            <a class="buttons"href="#" class="text">NextStep</a>
+        </div>
+        <br>
+        <div class="cheese-grp">
+            <p class="cheese-head">Cheese</p>
+            <label for="cheese-opt1"></label>
+            <select class="cheese-grp" id="cheese-opt1">
+                <option>Regular</option>
+                <option>Medium</option>
+                <option>Overload</option>
+            </select>
+        </div>
+        <div class="sauce-grp">
+            <p class="sauce-head">Sauce</p>
+            <label for="sauce-opt1"></label>
+            <select class="sauce-grp" id="sauce-opt1">
+                <option>Marinara</option>
+                <option>Barbeque</option>
+                <option>Pesto</option>
+            </select>
+            <p class="hmuch-head">How Much</p>
+            <label for="hmuch-opt1"></label>
+            <select class="sauce-grp" id="hmuch-opt1">
+                <option>Light</option>
+                <option>Mediun</option>
+                <option>Overload</option>
+            </select>
+            <div class="buttons">
+              <a href="#" class="previous">Previous</a>
+              <a href="#" class="next">Next</a>
+            </div>
+            <div class="card" style="width: 18rem;">
+            <div class="card-body">
+                <p class="head-toppings">Choose Toppings</p>
+                <div class class="meats"><p class="kind-meat">Choose Meats</p>
+                   <input class="form-check-input" type="checkbox" value="" id="meat1">
+                    <label class="form-check-label" for="meat1">Beef</label><br>
+                    <input class="form-check-input" type="checkbox" value="" id="meat2">
+                    <label class="form-check-label" for="meat2">Ham</label><br>
+                    <input class="form-check-input" type="checkbox" value="" id="meat3">
+                    <label class="form-check-label" for="meat3">Philly Steak</label><br>
+                    <input class="form-check-input" type="checkbox" value="" id="meat4">
+                    <label class="form-check-label" for="meat4">Bacon</label>
+
+                </div>
+                <p class="head-toppings">Choose Toppings</p>
+                <div class class="meats"><p class="non-meat">Vegetables</p>
+                    <input class="form-check-input" type="checkbox" value="" id="veg1">
+                    <label class="form-check-label" for="veg1">Green Peppers</label><br>
+                    <input class="form-check-input" type="checkbox" value="" id="veg2">
+                    <label class="form-check-label" for="veg2">Mushrooms</label><br>
+                    <input class="form-check-input" type="checkbox" value="" id="veg3">
+                    <label class="form-check-label" for="veg3">Onions</label><br>
+                    <input class="form-check-input" type="checkbox" value="" id="veg4">
+                    <label class="form-check-label" for="veg4">Jalepeno Peppers</label>
+                </div>
+
+                    <a href="#" class="card-link">Check out</a>
+            </div>
+        </div>
+
+
+        </div>
+
+
+</div>
+
+
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+
+</html>

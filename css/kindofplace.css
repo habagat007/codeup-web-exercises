@@ -1,0 +1,44 @@
+
+.jumbotron{
+    background-image: url(../img/phillogo.jpeg);
+
+}
+
+.luzon-tab, .visayas-tab, .mindanao-tab{
+    font-size: 1em;
+    color: black;
+    border-radius: 5%;
+    height: 10px;
+    width: 150px;
+}
+
+.jumbotron>h1{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.jumbotron>p{
+    font-size: 1em;
+    text-align: center;
+    color: white;
+}
+
+.places-header>p{
+    font-size: 2em;
+    background-color: blue;
+    text-align: center;
+    color:white;
+
+}
+
+.malls, .islands, .festivals, .adventures{
+    box-sizing: content-box;
+    font-size: 2em;
+    background-color: darkgray;
+    color: black;
+    margin-left: 150px;
+
+}
+
+

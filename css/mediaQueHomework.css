@@ -16,7 +16,7 @@ h1{
 li{
     list-style-type: none;
     text-align: center;
-    height: 70px;
+    box-sizing: border-box;
     margin-bottom: 10px;
     background-color: dimgray;
 
@@ -27,23 +27,51 @@ li>a{
     display: block;
     width: 100%;
     font-size: 1.5em;
-    padding-top: 12px;
+    /*padding-top: 12px;*/
 
 }
 
 img{
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: auto;
     width: 100%;
 }
 
+
+section{
+    display: grid;
+    background-color: powderblue;
+    border: 1px solid black;
+    width: 100%;
+
+}
+
+.main{
+    display: grid;
+    grid-template-rows: 1fr .5fr;
+    margin: 2px 2px 2px 2px ;
+
+}
+
+section h2{
+    font-size: 2em;
+}
+
+section p{
+    font-family: Arial, Ubuntu, sans-serif;
+    font-size: 1em;
+}
 footer{
 
 }
  @media screen and (min-width: 768px) {
-   h1{
-       text-align: left;
-       font-size: 2em;
-       float: left;
-   }
+
+     h1{
+         text-align: left;
+         font-size: 2em;
+         float: left;
+     }
 
      .alert-info{
          text-align: center;
@@ -83,3 +111,5 @@ footer{
          clear: both;
      }
  }
+
+}

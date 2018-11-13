@@ -1,0 +1,79 @@
+*{
+
+}
+
+.form-inline{
+    display: grid;
+    grid-template-columns: repeat(3,1fr 3fr);
+    grid-gap: 2px;
+    width: 100%;
+
+}
+
+.jumbotron{
+    background-image: url(../img/pizza.png);
+    text-align: center;
+
+}
+
+.list-group-item{
+    font-size: 1em;
+
+}
+
+.text{
+    width: 75px;
+    height: 23px;
+    background-color: blue;
+    color: white;
+    font-size: 1em;
+}
+
+.nav-items{
+    color: white;
+    display: inline-block;
+
+}
+
+.size-and-crust, .head-toppings{
+    background-color: blue;
+    color: white;
+    padding: 1px;
+    font-size: 1.5em;
+    font-weight: bold;
+
+}
+
+.buttons{
+    color: white;
+    font-weight: bolder;
+    background-color: blue;
+    border-radius: 7%;
+    height: 23px;
+    width: 120px;
+
+}
+
+.previous, .next {
+    font-weight: bolder;
+    color: white;
+    border: 1px solid black;
+
+}
+.card-header, .cheese-head, .sauce-head, .non-meat, .kind-meat, .hmuch-head{
+    background-color: lightgray;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.jumbotron>h1{
+   background-color: ghostwhite;
+   background-blend-mode: lighten ;
+
+
+}
+
+
+
+
+
