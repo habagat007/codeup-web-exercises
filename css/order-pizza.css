@@ -22,9 +22,8 @@
 }
 
 .text{
-    width: 75px;
+    width: 100%;
     height: 23px;
-    background-color: blue;
     color: white;
     font-size: 1em;
 }
@@ -60,7 +59,7 @@
     border: 1px solid black;
 
 }
-.card-header, .cheese-head, .sauce-head, .non-meat, .kind-meat, .hmuch-head{
+.card-header, .cheese-head, .sauce-head,  .hmuch-head{
     background-color: lightgray;
     font-size: 1.5em;
     font-weight: bold;
@@ -72,6 +71,49 @@
 
 
 }
+
+#opa3{
+    background-color: rgba( 255,255,255,0.5);
+    width: 100%;
+}
+
+.btn-foot{
+    background-color: blue;
+    width: 100px;
+    height: 30px;
+    border-radius: 6%;
+    text-align: center;
+    padding-top: 1px;
+
+
+
+
+
+}
+
+.card-link{
+    color: white;
+    font-size: 1em;
+
+
+}
+
+#head-toppings{
+    background-color:lightskyblue ;
+    font-size: 1.5em;
+    text-align: center;
+    border-radius: 5%;
+
+}
+
+.non-meat, .kind-meat{
+    background-color: lightgray;
+    font-size: 1em;
+    text-align: center;
+    border-radius: 5%;
+}
+
+
 
 
 

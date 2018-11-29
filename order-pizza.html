@@ -21,19 +21,19 @@
         </form>
     </nav>
     <div class="jumbotron">
-        <h1 class="display-4">Welcome to Pizza World</h1>
+        <h1 class="display-4" id="opa3">Welcome to Pizza World</h1>
 
     </div>
     <h2>Build Your Own Pizza!</h2>
     <ul class="nav nav-tabs">
         <li class="nav-item">
-            <a class="nav-link" href="#">1.Size and Crust</a>
+            <a class="nav-link" href="#size-and-crust">1.Size and Crust</a>
         </li>
         <li class="nav-item">
             <a class="nav-link" href="#">2.Cheese and Sauce</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="#">3.Topings</a>
+            <a class="nav-link" href="#head-toppings">3.Toppings</a>
         </li>
     </ul>
     <p class="size-and-crust">Choose size and crust</p>
@@ -100,10 +100,10 @@
             <div class="buttons">
               <a href="#" class="previous">Previous</a>
               <a href="#" class="next">Next</a>
-            </div>
+            </div><br>
             <div class="card" style="width: 18rem;">
             <div class="card-body">
-                <p class="head-toppings">Choose Toppings</p>
+                <p id="head-toppings">Choose Toppings</p>
                 <div class class="meats"><p class="kind-meat">Choose Meats</p>
                    <input class="form-check-input" type="checkbox" value="" id="meat1">
                     <label class="form-check-label" for="meat1">Beef</label><br>
@@ -115,8 +115,8 @@
                     <label class="form-check-label" for="meat4">Bacon</label>
 
                 </div>
-                <p class="head-toppings">Choose Toppings</p>
-                <div class class="meats"><p class="non-meat">Vegetables</p>
+
+                <div class class="meats"><p class="non-meat">Choose Non-Meats</p>
                     <input class="form-check-input" type="checkbox" value="" id="veg1">
                     <label class="form-check-label" for="veg1">Green Peppers</label><br>
                     <input class="form-check-input" type="checkbox" value="" id="veg2">
@@ -125,10 +125,12 @@
                     <label class="form-check-label" for="veg3">Onions</label><br>
                     <input class="form-check-input" type="checkbox" value="" id="veg4">
                     <label class="form-check-label" for="veg4">Jalepeno Peppers</label>
-                </div>
+                </div><br>
 
-                    <a href="#" class="card-link">Check out</a>
             </div>
+                <div class="btn-foot">
+                   <a href="#" class="card-link">Check out</a>
+                </div>
         </div>
 
 
