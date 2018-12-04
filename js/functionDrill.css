@@ -1,0 +1,42 @@
+* {
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Amatic SC', cursive;
+
+
+}
+html{
+    font-family: 'Amatic SC', cursive;
+}
+h1,h3{
+    font-family: 'Abril Fatface', cursive;
+    text-decoration: solid blue underline;
+
+}
+
+.wrapper{
+    background-color: lightgray;
+}
+
+h1{
+    text-align: center;
+}
+
+.comment{
+    text-align: center;
+
+}
+
+button{
+    background-color: lightskyblue;
+    font-weight: bolder;
+    font-size: .75em;
+}
+
+h3{
+ text-align: center;
+
+}
+
+li{
+    font-size: 1.5em;
+}
