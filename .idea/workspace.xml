@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c087f0dd-7682-4bde-b024-3fc2f0b20920" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dom-query-js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dom-query-js.html" beforeDir="false" afterPath="$PROJECT_DIR$/dom-query-js.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,22 +16,22 @@
     <session id="387963383">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="18" />
-          <entry key="project.open.time.0" value="7" />
+          <entry key="project.closed" value="21" />
+          <entry key="project.open.time.0" value="10" />
           <entry key="project.open.time.1" value="4" />
-          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="14" />
+          <entry key="css" value="15" />
           <entry key="formProjct" value="1" />
-          <entry key="html" value="40" />
+          <entry key="html" value="42" />
           <entry key="iml" value="1" />
           <entry key="js" value="13" />
           <entry key="md" value="1" />
@@ -41,8 +40,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="14" />
-          <entry key="HTML" value="40" />
+          <entry key="CSS" value="15" />
+          <entry key="HTML" value="42" />
           <entry key="IDEA_MODULE" value="1" />
           <entry key="JavaScript" value="13" />
           <entry key="Markdown" value="1" />
@@ -53,14 +52,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="4785" />
-          <entry key="html" value="8242" />
+          <entry key="html" value="8937" />
           <entry key="js" value="15117" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="4785" />
-          <entry key="HTML" value="8245" />
+          <entry key="HTML" value="8940" />
           <entry key="JavaScript" value="15114" />
         </counts>
       </usages-collector>
@@ -71,7 +70,22 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dom-query-js.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="86" column="46" selection-start-line="86" selection-start-column="46" selection-end-line="86" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/Homework/html5up-aerial/assets/css/main.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -91,12 +105,11 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Owen-Martin" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Curriculum/login.html" />
         <option value="$PROJECT_DIR$/Curriculum/register.html" />
         <option value="$PROJECT_DIR$/github.html" />
         <option value="$PROJECT_DIR$/Curriculum/checkout.html" />
@@ -146,6 +159,7 @@
         <option value="$PROJECT_DIR$/javascriptfiles/circle.html" />
         <option value="$PROJECT_DIR$/javascriptfiles/js/circle.js" />
         <option value="$PROJECT_DIR$/javascriptfiles/defuse-the-bom.html" />
+        <option value="$USER_HOME$/Desktop/Homework/html5up-aerial/index.html" />
         <option value="$PROJECT_DIR$/dom-query-js.html" />
       </list>
     </option>
@@ -334,9 +348,9 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543942030566" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544030547565" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -378,11 +392,15 @@
       <workItem from="1543943303130" duration="125000" />
       <workItem from="1543943829874" duration="8000" />
       <workItem from="1543943858507" duration="519000" />
+      <workItem from="1543946572464" duration="3059000" />
+      <workItem from="1543954229853" duration="2000" />
+      <workItem from="1543958995527" duration="1507000" />
+      <workItem from="1544026751707" duration="3584000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="212730000" />
+    <option name="totallyTimeSpent" value="220882000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -395,6 +413,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="644" y="23" width="796" height="837" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.5198939" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -461,20 +480,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/welcome.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/selectors.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css_selectors.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -576,180 +581,44 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/javascriptfiles/function_js.html" />
-    <entry file="file://$PROJECT_DIR$/javascriptfiles/js/FunctionDrills.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="176" column="24" lean-forward="true" selection-start-line="176" selection-start-column="24" selection-end-line="176" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascriptfiles/FunctionDrills.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="68" column="39" lean-forward="true" selection-start-line="68" selection-start-column="39" selection-end-line="68" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/javascriptfiles/js/FunctionDrills.js" />
+    <entry file="file://$PROJECT_DIR$/javascriptfiles/FunctionDrills.html" />
     <entry file="file://$PROJECT_DIR$/javascriptfiles/js/result.html" />
-    <entry file="file://$PROJECT_DIR$/javascriptfiles/js/functionDrill.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascriptfiles/js/solution.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascriptfiles/js/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="63" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascriptfiles/js/while.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascriptfiles/js/break_and_continue.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascriptfiles/js/for_loops.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="4" column="42" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/javascriptfiles/js/functionDrill.css" />
+    <entry file="file://$PROJECT_DIR$/javascriptfiles/js/solution.js" />
+    <entry file="file://$PROJECT_DIR$/javascriptfiles/js/test.js" />
+    <entry file="file://$PROJECT_DIR$/javascriptfiles/js/while.js" />
+    <entry file="file://$PROJECT_DIR$/javascriptfiles/js/break_and_continue.js" />
+    <entry file="file://$PROJECT_DIR$/javascriptfiles/js/for_loops.js" />
     <entry file="file://$PROJECT_DIR$/javascriptfiles/Loop.html" />
     <entry file="file://$PROJECT_DIR$/javascriptfiles/js/planet-js.html" />
-    <entry file="file://$PROJECT_DIR$/javascriptfiles/js/iterating.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1710">
-          <caret line="114" selection-start-line="114" selection-end-line="114" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascriptfiles/js/planets-array.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascriptfiles/js/planets-string.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascriptfiles/split-join.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascriptfiles/planet-js.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascriptfiles/js/iterating_arrays_js.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascriptfiles/js/bonus.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="44" column="2" selection-start-line="44" selection-start-column="2" selection-end-line="44" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascriptfiles/js/bonus-js.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/javascriptfiles/js/iterating.js" />
+    <entry file="file://$PROJECT_DIR$/javascriptfiles/js/planets-array.js" />
+    <entry file="file://$PROJECT_DIR$/javascriptfiles/js/planets-string.js" />
+    <entry file="file://$PROJECT_DIR$/javascriptfiles/split-join.html" />
+    <entry file="file://$PROJECT_DIR$/javascriptfiles/planet-js.html" />
+    <entry file="file://$PROJECT_DIR$/javascriptfiles/js/iterating_arrays_js.html" />
+    <entry file="file://$PROJECT_DIR$/javascriptfiles/js/bonus.js" />
+    <entry file="file://$PROJECT_DIR$/javascriptfiles/js/bonus-js.html" />
     <entry file="file://$PROJECT_DIR$/objects.html" />
-    <entry file="file://$PROJECT_DIR$/javascriptfiles/js/objects.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="183" lean-forward="true" selection-start-line="183" selection-end-line="183" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascriptfiles/js/Object-homework.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
-          <caret line="146" lean-forward="true" selection-start-line="146" selection-end-line="146" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascriptfiles/bonusHomeworkJS.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascriptfiles/objects.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/javascriptfiles/js/objects.js" />
+    <entry file="file://$PROJECT_DIR$/javascriptfiles/js/Object-homework.js" />
+    <entry file="file://$PROJECT_DIR$/javascriptfiles/bonusHomeworkJS.html" />
+    <entry file="file://$PROJECT_DIR$/javascriptfiles/objects.html" />
     <entry file="file://$PROJECT_DIR$/javascriptfiles/js/circle.html" />
-    <entry file="file://$PROJECT_DIR$/javascriptfiles/js/circle.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascriptfiles/defuse-the-bom.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascriptfiles/circle.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/javascriptfiles/js/circle.js" />
+    <entry file="file://$PROJECT_DIR$/javascriptfiles/defuse-the-bom.html" />
+    <entry file="file://$PROJECT_DIR$/javascriptfiles/circle.html" />
+    <entry file="file://$PROJECT_DIR$/Owen-Martin/.idea/modules.xml" />
+    <entry file="file://$USER_HOME$/Desktop/Homework/html5up-aerial/index.html" />
     <entry file="file://$PROJECT_DIR$/dom-query-js.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="46" column="64" selection-start-line="46" selection-start-column="64" selection-end-line="46" selection-end-column="64" />
+        <state relative-caret-position="395">
+          <caret line="86" column="46" selection-start-line="86" selection-start-column="46" selection-end-line="86" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Owen-Martin/.idea/modules.xml">
+    <entry file="file://$USER_HOME$/Desktop/Homework/html5up-aerial/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
