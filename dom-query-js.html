@@ -4,13 +4,13 @@
     <meta charset="UTF-8">
     <title>DOM: Query and Modify</title>
 </head>
-<body>
+<body style="background-color: #9fcdff">
 
-<h1 id="main-header">Hello World!</h1>
-<button id="changeText">will change main header</button>
-<button id="changeColor">change the color</button>
-<button id="changeCont">New Content</button>
-<button id="oneItemBlue">One Item Blue</button>
+<h1 id="main-header">Hello World!</h1><br>
+<button id="changeText">will change main header</button><br>
+<button id="changeColor">change the color</button><br>
+<button id="changeCont">New Content</button><br>
+<button id="oneItemBlue">One Item Blue</button><br>
 <button id="colorEvryItem">Every Item to grey</button>
 <ul>
     <li data-dbid="1">Item 1</li>
@@ -66,7 +66,8 @@
 
 
         // TODO: Set inner html of mainHeader to "JavaScript is Cool"
-        document.getElementById('changeText').addEventListener('click',changeDtext);
+
+         document.getElementById('changeText').addEventListener('click',changeDtext);
 
         // TODO: Uncomment the next line and get the sub header element by id
 
